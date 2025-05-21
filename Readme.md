@@ -1,6 +1,6 @@
 # Negative News Search and Analysis Tool
 
-<img src="" alt="Negative-News-Search-Bitmutex">
+<img src="https://github.com/aamitn/negative-news/blob/352aa6d5091589523ec10f9a3caabb9a8881100b/assets/ss.png" alt="Negative-News-Search-Bitmutex">
 
 A Python-based GUI application that searches for and analyzes potential negative news about customers using Google Custom Search API and sentiment analysis. 
 
