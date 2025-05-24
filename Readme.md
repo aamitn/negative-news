@@ -7,12 +7,15 @@ A Python-based GUI application that searches for and analyzes potential negative
 ## Features
 
 - Custom Google search with specified keywords
-- Multi-language support
+- `Multi-language` and `custom search keywords` support
+- Configurable using .ini and github gist config sync
 - Sentiment analysis of search results
-- Risk scoring and categorization
-- Interactive GUI with Tkinter
-- Real-time results display
-- Raw JSON response viewer
+- Risk `scoring` and `categorization` based on `Sentiment scores` for each result
+- Interactive GUI with Raw JSON response viewer
+- Automatic browser opening for high-risk results
+- Uses `Curl CFFI` for access to all kinds of URLs
+- Support Parsing of PDF and DOCx files in URLs
+
 
 ## Prerequisites
 
@@ -108,16 +111,6 @@ python app.py
 ```bash
 pyinstaller --noconfirm --onefile --windowed --icon "C:\Users\bigwiz\PycharmProjects\negative-news\assets\logo.ico"  "C:\Users\bigwiz\PycharmProjects\negative-news\app.py"
 ```
-
-## Features Details
-
-- **Results Display**:
-  - Sentiment scores for each result
-  - Risk categorization
-  - Automatic browser opening for high-risk results
-  - Uses Curl CFFI for access to all kinds of URLs
-  - Support Parsing of PDF and DOCx files in URLs
-  - Copy functionality for raw responses
 
 ## Troubleshooting
 
