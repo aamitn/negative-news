@@ -1,4 +1,4 @@
-<img src="./assets/logo.png" alt="nnsat-logo" width="64" align="left">
+<img src="./assets/logo.png" alt="nnsat-logo" width="96" align="left">
 
 # Negative News Search and Analysis Tool - NNSAT
 
@@ -10,7 +10,7 @@ A Python-based GUI application that searches for and analyzes potential negative
 
 - Custom Google search with specified keywords
 - `Multi-language` and `custom search keywords` support
-- Configurable using .ini and github gist config sync
+- Configurable languages, keywords, exclusions and more using json based config
 - Sentiment analysis of search results
 - Risk `scoring` and `categorization` based on `Sentiment scores` for each result
 - Interactive GUI with Raw JSON response viewer
