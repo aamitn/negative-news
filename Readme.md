@@ -1,6 +1,8 @@
+<img src="./assets/logo.png" alt="nnsat-logo" width="64" align="left">
+
 # Negative News Search and Analysis Tool - NNSAT
 
-<img src="https://github.com/aamitn/negative-news/blob/352aa6d5091589523ec10f9a3caabb9a8881100b/assets/ss.png" alt="Negative-News-Search-Bitmutex" width="400">
+<img src="./assets/ss.png" alt="nnsat-screenshot"  width="400">
 
 A Python-based GUI application that searches for and analyzes potential negative news about customers using Google Custom Search API and sentiment analysis. 
 
