@@ -1,4 +1,4 @@
-# Negative News Search and Analysis Tool
+# Negative News Search and Analysis Tool - NNSAT
 
 <img src="https://github.com/aamitn/negative-news/blob/352aa6d5091589523ec10f9a3caabb9a8881100b/assets/ss.png" alt="Negative-News-Search-Bitmutex" width="400">
 
