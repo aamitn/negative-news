@@ -1,0 +1,27 @@
+{
+    "google_search_api_key": "YOUR_GOOGLE_SEARCH_API_KEY",
+    "google_search_cx": "YOUR_GOOGLE_CUSTOM_SEARCH_CX",   
+
+    "pdf_max_pages": 5,
+    "docx_max_paragraphs" : 50,
+    "max_chars" : 1000,
+
+    "total_results": 10,
+
+    "connection_timeout":5,
+    "read_timeout": 5,
+    "max_retries": 2,
+    
+    "curl_cffi_impersonator": "chrome",
+
+    "name_min_length": 3,
+
+    "languages_keywords": {
+        "English": ["bribery", "fraud", "money laundering", "crime", "terrorism", "corruption"],
+        "Spanish": ["soborno", "fraude", "lavado de dinero", "crimen", "terrorismo", "corrupción"]
+    },
+
+    "default_selected_languages": ["English"],
+
+    "excluded_sites": ["facebook.*", "twitter.*", "instagram.*", "linkedin.*", "reddit.*"]
+}
